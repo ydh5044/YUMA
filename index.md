@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 沙雕日常
 
 You can use the [editor on GitHub](https://github.com/ydh5044/YUMA/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
